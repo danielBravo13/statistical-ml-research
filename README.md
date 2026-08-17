@@ -1,14 +1,14 @@
 # statistical-ml-research
 
-##Overview
+## Overview
 
 This project was developed as part of the AP Research program to investigate the relationship between self-reported reward anticipation, psychological alertness, and productivity among high school students. Consisted of the analysis of a 200+ dataset with Python, featuring data preprocessing, hypothesis testing, reliability analysis, Linear Regression, and Random Forest modeling.
 
-##Research Question
+## Research Question
 
 To what extent do self-reported reward anticipation and psychological alertness correlate to productivity among high school students at a high school in Southern California?
 
-##Methods
+## Methods
 
 - Data collection and cleaning
 - Computational statistical analysis
@@ -21,7 +21,7 @@ To what extent do self-reported reward anticipation and psychological alertness 
 - Linear Regression
 - Random Forest
 
-##Results
+## Results
 
 Random Forest achieved:
 - R^2: 0.876
@@ -32,7 +32,7 @@ Linear Regression achieved:
 - R^2: 0.99 (possible overfitting)
 - ME: 0.014
 
-##Technologies Used
+## Technologies Used
 - Python
 - Pandas
 - NumPy
@@ -41,7 +41,7 @@ Linear Regression achieved:
 - scipy
 - Visual Studio
 
-#What I learned
+## What I learned
 - Evaluating data reliability and validity
 - Building and assessing machine learning models
 - Computational statistical analysis
